@@ -16,6 +16,7 @@ namespace ConsoleApp1
         }
         //[1,3,5,6]     2
         //[1,3,5,6,8]   2
+        // added new line here.
         public int SearchInsert(int[] nums, int target)
         {
             var start = 0;
